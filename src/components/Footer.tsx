@@ -176,7 +176,7 @@ export function Footer({ onNavigate }: FooterProps) {
 
         <div className="border-t border-[#d7bf69]/20 pt-6">
           <p className="text-center text-[#E0E0E0] text-sm">
-            © 2025 OneHub. All rights reserved. Design and Developed by{" "}
+            © 2025 OneHubindiaaa. All rights reserved. Design and Developed by{" "}
             <a 
               href="https://www.rewind.ae" 
               target="_blank" 
